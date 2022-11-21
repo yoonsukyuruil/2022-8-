@@ -5,3 +5,4 @@ DB연동 비밀번호 1234
 phpmyadmin의 localhost의 비밀번호를 1234로 변경 
 config.inc.php 의 password 항목을 '' 에서 '1234'로 변경하고 사용할것 
 
+DB 파일 동봉 - sql에 입력하면 바로 사용 가능
